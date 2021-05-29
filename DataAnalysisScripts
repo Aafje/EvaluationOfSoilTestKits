@@ -1,1 +1,8 @@
 
+Statistical analysis scripts 
+
+Script: Kruskal_ANOVA_Time --> Analysis of assesment time of each test kit. Kruskall wallis test was applied and Dunn-test was used as post-hoc 
+
+Script: Nitrate_Rapi, Nitrate_LL, Nitrate_Mil --> Analysis of nitrate assessment accuracy per test kit by comparing nitrate as tested by respected test-kits to lab-test with a Wilcoxon signed-rank test
+Script: Phosphate_Rapi, Phosphate_LL, Phosphate_Mil --> Analysis of phosphate assessment accuracy per test kit by comparing phosphate as tested by respected test-kits to lab-test with a Wilcoxon signed-rank test.
+Script: Potassium_Rapi, Potassium_LL, Potassium_Mil --> Analysis of potassium assessment accuracy per test kit by comparing potassium as tested by respected test-kits to lab-test with a Wilcoxon signed-rank test
